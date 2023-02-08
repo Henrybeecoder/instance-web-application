@@ -32,7 +32,7 @@ export default function SideBar() {
       </div>
 
       <button className='flex gap-3 items-center text-red-500 mt-40 mx-auto ml-10'>
-        <img src={logoutSvg} />
+        <img alt='' src={logoutSvg} />
         <p>Logout</p>
       </button>
     </div>
