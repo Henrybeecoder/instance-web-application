@@ -40,7 +40,9 @@ const Overview = () => {
             <div>
               <div className='flex gap-1 items-center'>
                 <img alt='' src={calender} />
-                <p className='text-[11px] w-24'>Friday 22nd, October 2022</p>
+                <p className='text-[11px] w-24 md:w-full'>
+                  Friday 22nd, October 2022
+                </p>
               </div>
               <h2 className='text-lg md:text-2xl font-semibold'>
                 Good Evening
