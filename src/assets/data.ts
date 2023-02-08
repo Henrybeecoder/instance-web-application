@@ -1,0 +1,38 @@
+export const data = [
+  {
+    id: "1",
+    inicator: "up",
+    ref: "REF : 1234MT",
+    amount: "-$0.00",
+    description: "For Children School fees",
+    date: "11:00am 21 oct",
+    status: "Completed",
+  },
+  {
+    id: "2",
+    inicator: "up",
+    ref: "REF : 1234MT",
+    amount: "-$0.00",
+    description: "For Children School fees",
+    date: "11:00am 21 oct",
+    status: "Pending",
+  },
+  {
+    id: "3",
+    inicator: "up",
+    ref: "REF : 1234MT",
+    amount: "-$0.00",
+    description: "For Children School fees",
+    date: "11:00am 21 oct",
+    status: "Completed",
+  },
+  {
+    id: "4",
+    inicator: "up",
+    ref: "REF : 1234MT",
+    amount: "-$0.00",
+    description: "For Children School fees",
+    date: "11:00am 21 oct",
+    status: "Pending",
+  },
+];
